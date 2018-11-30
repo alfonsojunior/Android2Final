@@ -1,0 +1,12 @@
+
+vsquid:S1450"[Remove the "sesViewModel" field and declare it as a local variable in the relevant methods.(Ëæ©,8ó¡•«ö,
+osquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(ƒŽ®Šÿÿÿÿÿ8ó¡•«ö,
+dsquid:UselessImportCheck"6Remove this unused import 'android.location.Location'.(›¡ì®øÿÿÿÿ8ó¡•«ö,
+Ksquid:S1066"/Merge this if statement with the enclosing one.(Þ³ÃÌ8ÿ¼«ö,
+Hsquid:S1602",Remove useless curly braces around statement(Ä‚¿Ö8ó¡•«ö,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ó¡•«ö,
+squid:S1450"cRemove the "mFusedLocationClient" field and declare it as a local variable in the relevant methods.(Ð×°þ8ó¡•«ö,
+tsquid:UselessImportCheck"KRemove this unused import 'com.google.android.gms.tasks.OnSuccessListener'.(íå¡8ó¡•«ö,
+Psquid:S1066"/Merge this if statement with the enclosing one.(‰Í­Ñúÿÿÿÿ8€¤«ö,
+7squid:S3626"Remove this redundant jump.(ûÁÝ…8ó¡•«ö,
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(­šøäýÿÿÿÿ8©ù˜«ö,

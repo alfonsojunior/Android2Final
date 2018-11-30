@@ -1,0 +1,4 @@
+
+jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±Ž8Ñ®ðŽö,
+vsquid:S1450"[Remove the "sesViewModel" field and declare it as a local variable in the relevant methods.(Ëæ©,8ìÞòŽö,
+ysquid:UselessImportCheck"PRemove this unused import 'br.edu.unidavi.alfonso.android2final.entity.Usuario'.(¾ØÊ—8ÔüÿŽö,

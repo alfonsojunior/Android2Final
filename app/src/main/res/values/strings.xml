@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Controle de Atividades</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="registre_se">Registre-se</string>
+    <string name="login">Login</string>
+    <string name="title_activity_atividade_list">AtividadeListActivity</string>
+    <string name="registro_usuario">Registro de Usuário</string>
+    <string name="nova_atividade">Nova Atividade</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="fechar">Fechar</string>
+    <string name="finalizar">Finalizar</string>
+</resources>

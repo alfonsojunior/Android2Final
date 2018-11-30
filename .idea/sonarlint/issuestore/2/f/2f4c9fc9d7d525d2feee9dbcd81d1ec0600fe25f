@@ -1,0 +1,5 @@
+
+bsquid:HiddenFieldCheck"6Rename "id" which hides the field declared at line 26.(ªÙğúÿÿÿÿ8ÆÂ²²ö,
+isquid:HiddenFieldCheck"=Rename "atividade" which hides the field declared at line 28.(àÊËÒÿÿÿÿÿ8 œ²ö,
+jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(ÂÃ¿¤8 œ²ö,
+vsquid:S1450"[Remove the "sesViewModel" field and declare it as a local variable in the relevant methods.(Ëæ©,8 œ²ö,
